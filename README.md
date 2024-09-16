@@ -1,7 +1,7 @@
 ## Node.js Azure App
-#A simple Node.js application deployed to Azure using Docker and Terraform.
+A simple Node.js application deployed to Azure using Docker and Terraform.
 
-Overview
+#### Overview
 This project demonstrates a basic use case of the following methodologies:
 
 Docker containerization
