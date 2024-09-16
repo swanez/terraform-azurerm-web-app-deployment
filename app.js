@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello DevOps! Node.js application built in Docker, hosted on Heroku provisioned by Terraform!');
+  res.end('Welcome to this basic web application! Node.js drives the code, Git tracks changes, Docker packages it all, Azure provides the home, and Terraform sets the stage.');
 });
 
 server.listen(port, '0.0.0.0', () => {

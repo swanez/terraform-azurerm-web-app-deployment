@@ -20,11 +20,16 @@ terraform.tfvars
 .terraformrc
 terraform.rc
 
-# Heroku
-*.log
-npm-debug.log
-.DS_Store
-/*.env
+# Azure
+*.publishsettings
+PublishProfiles/
+*.pubxml
+
+# Azure Functions
+local.settings.json
+
+# Azure App Service
+.deployment
 
 # Docker
 # Uncomment the next line if you want to ignore the Dockerfile
