@@ -1,4 +1,4 @@
-Node.js Azure App
+## Node.js Azure App
 A simple Node.js application deployed to Azure using Docker and Terraform.
 
 Overview
