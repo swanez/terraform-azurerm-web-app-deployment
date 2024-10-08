@@ -1,5 +1,5 @@
-## Node.js application hosted in Azure
-A simple Node.js application deployed to Azure using Docker and Terraform.
+## Node.js web application hosted in Azure
+A simple Node.js web application deployed to Azure using Docker and Terraform.
 
 #### Overview
 This project demonstrates a basic use case of the following methodologies:
